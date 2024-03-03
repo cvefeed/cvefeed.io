@@ -3,6 +3,14 @@ https://cvefeed.io: Your Go-To Place for Finding Out About Security Feed and Int
 
 I'm always on the lookout for the newest information on security problems. I've searched high and low, from Twitter to RSS feeds, but was surprised there wasn't a single place that had all the info I needed.
 
+Example CVE detail page:
+
+[CVE-2024-21762](https://cvefeed.io/vuln/detail/CVE-2024-21762)
+
+Example Product Security Index page.
+
+https://cvefeed.io/vuln/product/1/zohocorpmanageengine_password_manager_pro/
+
 ## Motivation: Why ?
 
 Starting a new project on finding security weaknesses means I have to spend a lot of time looking up information about my 'target,' like past security issues and examples on GitHub.
@@ -25,4 +33,7 @@ Yes I'll open-source the cvefeed.io once I believe it's more thn a beta.
 
 I haven't thought about this at all. I can say that monthly infra cost is around $150-200 right now, which I can handle it for a while. 
 
+
+CVE-2023-29360
+CVE-2024-21762
 
